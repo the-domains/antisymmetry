@@ -1,0 +1,14 @@
+layout_spectrum: 0.08961006
+typography_spectrum: 0.1825859
+color:
+  saturation: 0.238293
+  lightness: 0.9778483
+  brandStrength: 0.9007011
+  rhythmicContrast: 0.3705908
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: antisymmetry
